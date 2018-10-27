@@ -1,5 +1,4 @@
 import random
-import pytest
 
 
 loosecount=0
